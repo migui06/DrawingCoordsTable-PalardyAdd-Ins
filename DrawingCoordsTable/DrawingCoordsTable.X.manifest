@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+
+  <assemblyIdentity name="DrawingCoordsTable" version="1.0.0.0"></assemblyIdentity>
+
+  <clrClass clsid="{6e7b4497-68eb-4845-9321-e67c12572a5e}" progid="DrawingCoordsTable.StandardAddInServer" threadingModel="Both" name="DrawingCoordsTable.DrawingCoordsTable.StandardAddInServer" runtimeVersion=""></clrClass>
+
+  <file name="DrawingCoordsTable.dll" hashalg="SHA1"></file>
+
+</assembly>
